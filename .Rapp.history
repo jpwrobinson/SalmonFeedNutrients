@@ -1,0 +1,74 @@
+getwd()
+getwd()
+setwd('Documents/git-repos/SalmonFeedNutrients/')
+source('02_estimate_nFIFO.R')#
+#
+# simulate eating feed fish species#
+source('03_simulate_eating_feed_fish_species.R')#
+source('04_simulate_eating_feed_fish_total.R')#
+#
+# create figures as pdf#
+source('Figure1.R')#
+source('Figure2.R')#
+source('Figure4.R')#
+source('Figure_S3.R')
+source('02_estimate_nFIFO.R')#
+#
+# simulate eating feed fish species#
+source('03_simulate_eating_feed_fish_species.R')#
+source('04_simulate_eating_feed_fish_total.R')#
+#
+# create figures as pdf#
+source('Figure1.R')#
+source('Figure2.R')#
+source('Figure4.R')#
+source('Figure_S3.R')
+source('02_estimate_nFIFO.R')#
+#
+# simulate eating feed fish species#
+source('03_simulate_eating_feed_fish_species.R')#
+source('04_simulate_eating_feed_fish_total.R')#
+#
+# create figures as pdf#
+source('Figure1.R')#
+source('Figure2.R')#
+source('Figure4.R')#
+source('FigureS3.R')
+source('02_estimate_nFIFO.R')#
+#
+# simulate eating feed fish species#
+source('03_simulate_eating_feed_fish_species.R')#
+source('04_simulate_eating_feed_fish_total.R')#
+#
+# create figures as pdf#
+source('Figure1.R')#
+source('Figure2.R')#
+source('Figure4.R')#
+source('FigureS3.R')
+se
+se
+rm(se)
+source(01_read_data.R)
+source('01_read_data.R')
+source('02_estimate_nFIFO.R')
+se
+source('03_simulate_eating_feed_fish_species.R')
+se
+source('04_simulate_eating_feed_fish_total.R')
+se
+source('Figure1.R')
+se
+source('Figure2.R')
+se
+source('Figure2.R')
+se
+se
+source('Figure2.R')
+rm(se)
+source('Figure2.R')
+se
+source('Figure4.R')
+source('FigureS3.R')
+source('00_plotting.R')
+source('FigureS3.R')
+source('FigureS4.R')
