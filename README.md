@@ -6,7 +6,7 @@ R scripts and datasets accompanying Willer et al. 2024.
 
 
 
-To reproduce analysis, ```git clone``` this repo or download as ZIP, then:
+To reproduce analysis, ```git clone``` this repo, OR download as ZIP, OR click [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jpwrobinson/SalmonFeedNutrients/HEAD) 
 
 1. Install R packages.
 
