@@ -5,6 +5,7 @@ install.packages(c(
 	'janitor',
 	'readxl',
 	'ggridges',
+	'Hmisc',
 	'devtools'
 ))
 
