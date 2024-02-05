@@ -1,1 +1,0 @@
-R --quiet -e 'source("install.R")'
