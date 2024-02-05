@@ -1,4 +1,4 @@
-install.packages(
+install.packages(c(
 	'tidyverse',
 	'cowplot',
 	'scales',
@@ -6,5 +6,4 @@ install.packages(
 	'readxl',
 	'ggridges',
 	'ggradar'
-)
-
+))
