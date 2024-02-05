@@ -5,5 +5,8 @@ install.packages(c(
 	'janitor',
 	'readxl',
 	'ggridges',
-	'ggradar'
+	'devtools'
 ))
+
+devtools::install_github("ricardo-bion/ggradar", 
+                          dependencies = TRUE)
